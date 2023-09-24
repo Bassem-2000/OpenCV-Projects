@@ -26,11 +26,11 @@ Feel free to explore the individual projects listed below and learn how OpenCV c
 </div>
 
 
-![Demo](./Virtual%20video%20controller/)
+![Demo](./Virtual%20video%20controller/Pic.gif)
 
-- Description: An interactive drawing application that uses hand gestures to create drawings on the screen. It features hand tracking, drawing tools, color selection, and an eraser tool.
-- Usage: Run the Python script and use hand gestures to draw or erase on the canvas.
-- Requirements: OpenCV, MediaPipe
+- Description: Controller video playback using hand gestures captured by your webcam. You can perform various gestures to play/pause the video, adjust the volume, skip forward or backward, and even make the video fullscreen.
+- Usage: Run the Python script and use hand gestures to control on the video you want.
+- Requirements: OpenCV, MediaPipe, Pyautogui, pyautogui, PyGetWindow
 
 ## Getting Started
 
