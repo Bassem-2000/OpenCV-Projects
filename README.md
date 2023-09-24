@@ -25,7 +25,7 @@ Feel free to explore the individual projects listed below and learn how OpenCV c
 <div align="center">
   <a href="./Virtual%20video%20controller">Virtual video controller </a>
 </div>
-
+<br>
 <div align="center">
 <img src="https://github.com/Bassem-2000/OpenCV-Projects/blob/main/Virtual%20video%20Controller/Pic.gif?raw=true">
 </div>
