@@ -26,7 +26,7 @@ Feel free to explore the individual projects listed below and learn how OpenCV c
 </div>
 
 
-![Demo](./Virtual%20video%20controller/Pic.gif)
+![Demo](./Virtual%20video%20Controller/Pic.gif)
 
 - Description: Controller video playback using hand gestures captured by your webcam. You can perform various gestures to play/pause the video, adjust the volume, skip forward or backward, and even make the video fullscreen.
 - Usage: Run the Python script and use hand gestures to control on the video you want.
