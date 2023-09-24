@@ -11,7 +11,7 @@ Feel free to explore the individual projects listed below and learn how OpenCV c
 <div align="center">
   <a href="./Virtual%20Painter">Virtual Painter</a>
 </div>
-
+<br>
 <div align="center">
 <img src="https://github.com/Bassem-2000/OpenCV-Projects/blob/main/Virtual%20Painter/frame.png?raw=true">
 </div>
