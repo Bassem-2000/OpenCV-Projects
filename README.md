@@ -23,7 +23,7 @@ Feel free to explore the individual projects listed below and learn how OpenCV c
 ### 2. Hand Gesture Video Playback Control
 
 <div align="center">
-  <a href="./Virtual%20video%20controller">Virtual video controller </a>
+  <a href="./Virtual%20video%20Controller">Virtual video controller </a>
 </div>
 <br>
 <div align="center">
