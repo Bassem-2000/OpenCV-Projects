@@ -18,7 +18,7 @@
 
 ## Introduction
 
-This Python project is an interactive drawing application that uses hand gestures to create drawings on the screen. It leverages the MediaPipe library for hand tracking and OpenCV for image processing. With this application, you can draw various shapes, change colors, and even use an eraser.
+This Python script allows you to control video playback using hand gestures captured by your webcam. You can perform various gestures to play/pause the video, adjust the volume, skip forward or backward, and even make the video fullscreen. The script uses the MediaPipe and OpenCV libraries to detect hand landmarks and interprets them as gestures to control a video player (e.g., VLC or Windows Media Player).
 
 ## Features
 
