@@ -20,8 +20,8 @@ def activate_window(window_title):
 def main(video_path):
     # Set the video capture properties
     cap = cv2.VideoCapture(0)
-    cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 120)
-    cap.set(cv2.CAP_PROP_FRAME_WIDTH, 120)
+    cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 720)
+    cap.set(cv2.CAP_PROP_FRAME_WIDTH, 1280)
 
     # Open the video in the default web browser
     webbrowser.open(video_path)
