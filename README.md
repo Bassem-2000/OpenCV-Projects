@@ -19,6 +19,19 @@ Feel free to explore the individual projects listed below and learn how OpenCV c
 - Usage: Run the Python script and use hand gestures to draw or erase on the canvas.
 - Requirements: OpenCV, MediaPipe
 
+### 2. Hand Gesture Video Playback Control
+
+<div align="center">
+  <a href="./Virtual%20video%20controller">Virtual video controller </a>
+</div>
+
+
+![Demo](./Virtual%20video%20controller/)
+
+- Description: An interactive drawing application that uses hand gestures to create drawings on the screen. It features hand tracking, drawing tools, color selection, and an eraser tool.
+- Usage: Run the Python script and use hand gestures to draw or erase on the canvas.
+- Requirements: OpenCV, MediaPipe
+
 ## Getting Started
 
 To get started with any of the projects, navigate to the respective project folder and follow the instructions provided in the project's README.
