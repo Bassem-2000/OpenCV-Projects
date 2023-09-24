@@ -100,7 +100,6 @@ while True:
             point2 = (x1, y1)
             
         x_line, y_line = x1, y1
-            
     frame = cv2.bitwise_and(frame, blank)
     frame[0:120, 0:1280] = Paint
     frame[120:, 1160:] = Pen
