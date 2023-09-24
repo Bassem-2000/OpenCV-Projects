@@ -13,7 +13,7 @@ Feel free to explore the individual projects listed below and learn how OpenCV c
 </div>
 
 <div align="center">
-![Demo](./Virtual%20Painter/frame.png)
+<img src="https://github.com/Bassem-2000/OpenCV-Projects/blob/main/Virtual%20Painter/frame.png?raw=true">
 </div>
 
 - Description: An interactive drawing application that uses hand gestures to create drawings on the screen. It features hand tracking, drawing tools, color selection, and an eraser tool.
@@ -27,7 +27,7 @@ Feel free to explore the individual projects listed below and learn how OpenCV c
 </div>
 
 <div align="center">
-![Demo](./Virtual%20video%20Controller/Pic.gif)
+<img src="https://github.com/Bassem-2000/OpenCV-Projects/blob/main/Virtual%20video%20Controller/Pic.gif?raw=true">
 </div>
 
 - Description: Controller video playback using hand gestures captured by your webcam. You can perform various gestures to play/pause the video, adjust the volume, skip forward or backward, and even make the video fullscreen.
