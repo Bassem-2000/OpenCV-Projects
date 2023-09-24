@@ -55,7 +55,7 @@ pip install opencv-python mediapipe pyautogui pygetwindow
 4. The script will open your default web Camera and play the video. You can then use hand gestures to control the video playback.
 5. Use the following gestures to interact with the application:
     - **Fullscreen (F11):** Bring your thumb and index finger close together to make the video fullscreen.
-    - ***Seek Backward (Ctrl+Left Arrow):** Close your Hands while keeping your thumb Extended to the left. This gesture will seek the video backward.
+    - **Seek Backward (Ctrl+Left Arrow):** Close your Hands while keeping your thumb Extended to the left. This gesture will seek the video backward.
     - **Seek Forward (Ctrl+Right Arrow):** Close your Hands while keeping your thumb Extended to the right. This gesture will seek the video forward.
     - **Play/Pause (Space):** Close your hand into a fist to play or pause the video.
     - **Volume Up (Volume Up Key):** Raise your index finger while keeping your other fingers closed to increase the volume.
