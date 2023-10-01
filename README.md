@@ -57,7 +57,7 @@ Happy coding with OpenCV!
 
 ## Feedback
 
-Can you please provide me with feedback on how I can improve myself and any ideas to improve the model, I am eager to receive any advice that can help me develop my skills.
+Can you please provide me with feedback on how I can improve myself and any ideas to improve the model, I am eager to receive any advice that can help me develop my skils.
 
 &nbsp;&nbsp;
 **Wish you a nice day :)**
